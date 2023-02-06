@@ -1,5 +1,5 @@
 <template>
-  <Tutorial/>
+  <ExportTable />
 </template>
 
 <script>
